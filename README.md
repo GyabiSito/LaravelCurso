@@ -1,4 +1,4 @@
-# Laravel Profesional – Resumen del Curso (GOGODEV)
+# Aprendiendo Laravel – Resumen del Curso (GOGODEV)
 
 Este documento resume y reestructura el contenido del curso "Laravel Profesional" dictado por GOGODEV, y relaciona cada temática con el repositorio del proyecto `LaravelCurso`. Cada sección representa un bloque temático (correspondiente a un video del curso), con explicación de los conceptos clave, cómo se implementan en el proyecto y las herramientas utilizadas. Ideal para tener una visión completa, clara y aplicable.
 
